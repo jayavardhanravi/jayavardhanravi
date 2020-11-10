@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/jayavardhanravi/jayavardhanravi/blob/master/wave.gif" width="30px"> I'm Jayavardhan Ravi
+### Hi there <img src="wave.gif" width="30px"> I'm Jayavardhan Ravi
 
 - 🔭 I’m currently working as an Software Engineer.
 - 🌱 I’m currently learning how apply machine learning can be appied to surgical robots.
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ---
 ## Connect with me
 
-[<img align="left" alt="Jayavardhan Ravi | LinkedIn" width="27px" height="25px" src="https://github.com/jayavardhanravi/jayavardhanravi/blob/master/linkedin.png" />][linkedin]
+[<img align="left" alt="Jayavardhan Ravi | LinkedIn" width="27px" height="25px" src="linkedin.png" />][linkedin]
 <br />
 <br />
 
