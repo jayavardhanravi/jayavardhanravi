@@ -1,10 +1,10 @@
 ### Hi there <img src="wave.gif" width="30px"> I'm Jayavardhan Ravi
 
 - 🔭 I’m currently working as an Software Engineer.
-- 🌱 I’m currently learning how apply machine learning can be appied to surgical robots.
+- 🌱 I’m currently learning how machine learning can be applied to surgical robots.
 - 👯 I’m looking to collaborate on problems related to social good.
 - 🤔 I’m deeply believe engineering can help solve the problems faced by the humanity.
-- 💬 Ask me about Machine & Deep Learning in sugrical robotics.
+- 💬 Ask me about Machine Learning in sugrical robotics.
 - ⚡ Fact: I am an avid hiker and batminton player 🚵 
 <!--
 **jayavardhanravi/jayavardhanravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
