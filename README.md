@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how machine learning can be applied to surgical robots.
 - 👯 I’m looking to collaborate on problems related to social good.
 - 🤔 I’m deeply believe engineering can help solve the problems faced by the humanity.
-- 💬 Ask me about Machine Learning in sugrical robotics.
+- 💬 Ask me about build interfaces for sugrical robotics.
 - ⚡ Fact: I am an avid hiker and batminton player 🚵 
 <!--
 **jayavardhanravi/jayavardhanravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Quadraped from scratch](#) - Replicating MIT Cheeta building Mechanical Designs, Electronics and Control Algorithms
 - [Segmentation of brain tumors from MRI images using Tensorflow](#)
-- (Currently Working) [Detection of actions perfomed during surgery by davinci sugrical robot using deep learning tools](#)
+- [Detection of actions perfomed during surgery by davinci sugrical robot using deep learning tools](#)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](#)
